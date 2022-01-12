@@ -8,19 +8,23 @@ Screen1 As screen:
         Y: =40
         ZIndex: =1
 
-        'Lbl Name' As label:
-            X: =0
-            Y: = 0
+        "'Lbl Name' As label":
             OnSelect: =Select(Parent)
             Text: =ThisItem.Title
-            Width: =150
+            Y: = 0
             ZIndex: =1
 
-        'Lbl Email' As label:
-            X: =160
-            Y: = 0
+        "'Lbl Email' As label":
             OnSelect: =Select(Parent)
             Text: =ThisItem.Email
-            Width: =150
+            X: =160
+            Y: = 0
             ZIndex: =1
+
+        Label1 As label:
+            OnSelect: =Select(Parent)
+            Text: =ThisItem.Relationship
+            Width: =236
+            X: =330
+            ZIndex: =2
 
