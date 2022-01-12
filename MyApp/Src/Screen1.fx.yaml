@@ -8,9 +8,19 @@ Screen1 As screen:
         Y: =40
         ZIndex: =1
 
-        Label1 As label:
+        'Lbl Name' As label:
+            X: =0
+            Y: = 0
             OnSelect: =Select(Parent)
             Text: =ThisItem.Title
-            Width: =331
+            Width: =150
+            ZIndex: =1
+
+        'Lbl Email' As label:
+            X: =160
+            Y: = 0
+            OnSelect: =Select(Parent)
+            Text: =ThisItem.Email
+            Width: =150
             ZIndex: =1
 
