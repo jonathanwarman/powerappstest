@@ -5,12 +5,13 @@
     "Gallery2": 4,
     "galleryTemplate2": 7,
     "Label1": 8,
+    "Label2": 9,
     "Lbl Email": 6,
     "Lbl Name": 5,
     "Screen1": 3
   },
   "FunctionParamsInvariantScripts": {},
-  "HeaderLastSavedDateTimeUTC": "01/12/2022 12:21:28",
+  "HeaderLastSavedDateTimeUTC": "01/12/2022 12:22:16",
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
   "LocalResourceRootPaths": {},
@@ -31,6 +32,7 @@
     "Gallery2": 0,
     "galleryTemplate2": 0,
     "Label1": 0,
+    "Label2": 0,
     "Lbl Email": 2,
     "Lbl Name": 1,
     "Screen1": 0

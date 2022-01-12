@@ -28,3 +28,10 @@ Screen1 As screen:
             X: =330
             ZIndex: =2
 
+    Label2 As label:
+        Text: ="I should not be synced."
+        Width: =242
+        X: =825
+        Y: =110
+        ZIndex: =2
+
