@@ -1,2 +1,16 @@
 Screen1 As screen:
 
+    Gallery2 As gallery.galleryVertical:
+        Items: ='[JonW Dev] People'
+        Layout: =Layout.Vertical
+        TemplateSize: =50
+        X: =40
+        Y: =40
+        ZIndex: =1
+
+        Label1 As label:
+            OnSelect: =Select(Parent)
+            Text: =ThisItem.Title
+            Width: =331
+            ZIndex: =1
+

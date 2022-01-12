@@ -2,24 +2,38 @@
   "ComponentIndexes": {},
   "ControlUniqueIds": {
     "App": 1,
+    "Gallery2": 11,
+    "galleryTemplate2": 12,
+    "Label1": 13,
     "Screen1": 3
   },
   "FunctionParamsInvariantScripts": {},
-  "HeaderLastSavedDateTimeUTC": "01/12/2022 12:12:26",
+  "HeaderLastSavedDateTimeUTC": "01/12/2022 12:14:27",
   "LocalDatabaseReferencesAsEmpty": false,
   "LocalResourceFileNames": {},
   "LocalResourceRootPaths": {},
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
-  "OrderDataSource": {},
+  "OrderDataSource": {
+    "[JonW Dev] People": 0,
+    "CustomGallerySample": 1
+  },
   "OrderGroupControls": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {},
+  "OrderXMLTemplate": {
+    "gallery": 0,
+    "label": 1
+  },
   "PublishOrderIndices": {
     "App": 0,
+    "Gallery2": 0,
+    "galleryTemplate2": 0,
+    "Label1": 0,
     "Screen1": 0
   },
-  "ResourcesJsonIndices": {},
+  "ResourcesJsonIndices": {
+    "Image-SampleImage": 0
+  },
   "TemplateVersions": {},
   "VolatileProperties": {
     "AnalysisLoadTime": 0.0346933,
